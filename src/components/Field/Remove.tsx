@@ -1,5 +1,7 @@
 /* eslint-disable no-restricted-exports */
 
+'use client'
+
 import type { I18nClient } from '@payloadcms/translations'
 import type { Payload, User } from 'payload'
 

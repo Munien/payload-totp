@@ -1,4 +1,5 @@
-/* eslint-disable no-restricted-exports */ import { jsx as _jsx, jsxs as _jsxs, Fragment as _Fragment } from "react/jsx-runtime";
+/* eslint-disable no-restricted-exports */ 'use client';
+import { jsx as _jsx, jsxs as _jsxs, Fragment as _Fragment } from "react/jsx-runtime";
 import { Modal } from '@payloadcms/ui';
 import { Remove as RemoveView } from '../views/Remove/index.js';
 import RemoveButton from './RemoveButton.js';
